@@ -133,7 +133,7 @@ TEST_PHONE=
 Initialize Airtable tables:
 
 ```bash
-# Tables are auto-created on first backend start
+ Tables are auto-created on first backend start
 ```
 
 ### 3. Frontend Setup
