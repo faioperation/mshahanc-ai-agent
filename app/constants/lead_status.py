@@ -1,0 +1,12 @@
+class LeadStatus:
+    RAW = "raw"
+    QUALIFIED = "qualified"
+    DISQUALIFIED = "disqualified"
+    CONTACTED = "contacted"
+    FOLLOWED_UP = "followed_up"
+    REPLIED = "replied"
+    INTERESTED = "interested"
+    MEETING_REQUESTED = "meeting_requested"
+    BOOKED = "booked"
+    CLOSED_WON = "closed_won"
+    CLOSED_LOST = "closed_lost"
