@@ -233,13 +233,6 @@ PATCH http://localhost:8000/api/settings
 | PATCH | `/api/settings` | Update settings |
 
 Full API docs: `http://localhost:8000/docs`
-
----
-
-## 📝 License
-
-MIT
-
 ---
 
 ## 🌐 Production Deployment
